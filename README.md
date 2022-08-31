@@ -1,6 +1,6 @@
 This is a simple web application which allows the user to filter and analyse a small set of randomly generated university data.
 After downloading the file please go with the below procesdures.
-make sure you have the proper environment to run it
+Make sure you have the proper environment to run it
 
 **For running backend**
 

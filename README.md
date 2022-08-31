@@ -5,11 +5,15 @@ Make sure you have the proper environment to run it
 **For running backend**
 
 npm install
+
+
 npm run dev
 
 **For running frontend**
 
 npm install
+
+
 npm start
 
 https://www.youtube.com/watch?v=EV9RJAHvkLk watch the video to understand clearly
